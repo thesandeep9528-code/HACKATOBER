@@ -1,0 +1,85 @@
+body {
+    background: #f2fbf5;
+    font-family: system-ui, sans-serif;
+}
+
+.card {
+    border-radius: 16px;
+    border: none;
+}
+
+.avatar-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link.active{
+    background-color: #dbfce7;
+    border-radius: 8px;
+}
+
+.result-green {
+    background: #ecfdf5;
+    border-radius: 12px;
+}
+
+/* Plump up the container and soften the edges */
+.progress {
+    height: 9px;
+}
+
+/* --- New Prediction Dashboard Styles --- */
+.metric-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+}
+
+.prediction-metric-card {
+    transition: transform 0.2s ease;
+}
+
+/* Move card upwards - Floating Effect */
+.prediction-metric-card:hover {
+    transform: translateY(-4px);
+}
+
+/* Increase icon size */
+.prediction-metric-card:hover .metric-icon {
+    transform: scale(1.1);
+}
+
+/* Upgraded Fertilizer List */
+.fertilizer-custom-list .list-group-item {
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding: 14px 18px;
+}
+
+.fertilizer-custom-list .list-group-item:last-child {
+    margin-bottom: 0;
+}
+
+/* --- PDF Download Button Styles --- */
+.pdf-download-btn {
+    border-radius: 12px;
+    padding: 14px 20px;
+    font-size: 1.05rem;
+    transition: all 0.3s ease-out;
+}
+
+.pdf-download-btn:hover {
+    transform: translateY(-3px);
+}
+
+.pdf-download-btn:active {
+    transform: translateY(0);
+}

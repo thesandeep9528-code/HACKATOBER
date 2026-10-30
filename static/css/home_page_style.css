@@ -1,0 +1,64 @@
+/* BioGrow Styling */
+:root {
+    --primary-green: #198754; --dark-green: #14532d;
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, var(--primary-green), var(--dark-green));
+}
+
+/* Button hover */
+.btn-hover-scale {
+    transition : all 0.15s ease-in-out;
+}
+
+.btn-hover-scale:hover {
+    transform : scale(1.05);
+}
+
+/* Feature Cards */
+.feature-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: none;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Colors Utilities */
+.bg-green-subtle {
+    background-color: #d1e7dd;
+}
+.bg-blue-subtle {
+    background-color: #cfe2ff;
+}
+.bg-orange-subtle {
+    background-color: #ffecb5;
+}
+.bg-purple-subtle {
+    background-color: #e0cffc;
+}
+.bg-yellow-subtle {
+    background-color: #fff3cd;
+}
+.bg-pink-subtle {
+    background-color: #f8d7da;
+}
+
+.rounded-4 {
+    border-radius: 1rem;
+}
+.rounded-bottom-left-0 {
+    border-bottom-left-radius: 0;
+}
+.rounded-bottom-right-0 {
+    border-bottom-right-radius: 0;
+}

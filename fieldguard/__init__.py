@@ -1,0 +1,1 @@
+"""AgriSmart application package."""

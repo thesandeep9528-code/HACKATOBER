@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BioGrow Crop Recommendation Report</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            color: #212529;
+            line-height: 1.5;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Utility Classes */
+        .text-center { text-align: center; }
+        .text-success { color: #198754; }
+        .text-muted { color: #6c757d; }
+        .fw-bold { font-weight: 700; }
+        .mb-3 { margin-bottom: 1rem; }
+        .mt-4 { margin-top: 1.5rem; }
+        .py-3 { padding-top: 1rem; padding-bottom: 1rem; }
+        .d-block { display: block; }
+        .fs-5 { font-size: 1.25rem; }
+
+        /* Header */
+        .report-header {
+            border-bottom: 3px solid #198754;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        /* Section Titles */
+        .section-title {
+            font-size: 1.25rem;
+            color: #2c3e50;
+            border-left: 5px solid #198754;
+            padding-left: 15px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        /* Prediction Hero Box */
+        .prediction-box {
+            background-color: #ecfdf5; /* Light green bg */
+            border: 1px solid #d1e7dd;
+            border-radius: 12px;
+            padding: 25px;
+        }
+        .crop-title {
+            font-size: 2.5rem;
+            margin: 10px 0;
+            color: #146c43;
+            text-transform: capitalize;
+        }
+
+        /* Data Tables */
+        .data-table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .data-table th, .data-table td {
+            padding: 12px;
+            border-bottom: 1px solid #dee2e6;
+            text-align: left;
+        }
+        .data-table th {
+            color: #495057;
+            width: 40%;
+        }
+        .data-table td {
+            font-weight: 600;
+        }
+
+        /* Fertilizer List */
+        .fert-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .fert-list li {
+            background-color: #d2e3d0;
+            border: 1px solid #dee2e6;
+            padding: 12px 15px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #dee2e6;
+            font-size: 0.85rem;
+            text-align: center;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="report-header text-center">
+        <h2 class="fw-bold mb-0">BioGrow Analysis Report</h2>
+        <p class="text-muted">AI-Powered Smart Farming Assistant</p>
+        <p>Date and Time: <strong>{{ report_date }}</strong> | Report ID: <strong>{{ report_id }}</strong></p>
+    </div>
+
+    <div class="prediction-box mb-3 text-center">
+        <p class="text-muted mb-0 fw-bold">TOP RECOMMENDATION</p>
+        <h1 class="crop-title fw-bold">{{ result.crop_name }}</h1>
+
+        <table style="width: 100%; margin-top: 15px; border: none; border-collapse: collapse;">
+            <tr>
+                <td style="width: 33.3%; text-align: center; border: none; padding: 10px;">
+                    <span class="text-muted d-block">Confidence Score</span>
+                    <strong class="text-success fs-5">{{ result.match_percentage }}% Match</strong>
+                </td>
+                <td style="width: 33.3%; text-align: center; border: none; padding: 10px;">
+                    <span class="text-muted d-block">Harvest Time</span>
+                    <strong class="text-dark fs-5">{{ result.harvest_duration }} days</strong>
+                </td>
+                <td style="width: 33.3%; text-align: center; border: none; padding: 10px;">
+                    <span class="text-muted d-block">Seasonal Water Needs</span>
+                    <strong class="text-dark fs-5">{{ result.water_requirement }} mm</strong>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <h3 class="section-title">Soil & Climate Profile Analyzed</h3>
+    <table class="data-table">
+        <tbody>
+            <tr>
+                <th>Soil Type</th>
+                <td>{{ inputs.soil_type }}</td>
+            </tr>
+            <tr>
+                <th>Nitrogen (N)</th>
+                <td>{{ inputs.n }} kg/ha</td>
+            </tr>
+            <tr>
+                <th>Phosphorus (P)</th>
+                <td>{{ inputs.p }} kg/ha</td>
+            </tr>
+            <tr>
+                <th>Potassium (K)</th>
+                <td>{{ inputs.k }} kg/ha</td>
+            </tr>
+            <tr>
+                <th>Soil pH</th>
+                <td>{{ inputs.ph }}</td>
+            </tr>
+            <tr>
+                <th>Avg. Temperature</th>
+                <td>{{ inputs.temp }} °C</td>
+            </tr>
+            <tr>
+                <th>Avg. Humidity</th>
+                <td>{{ inputs.humidity }} %</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="section-title mt-4">Fertilizer & Action Plan</h3>
+    <ul class="fert-list">
+        {% for rec in result.recommendations %}
+        <li>&#9658; {{ rec }}</li>
+        {% else %}
+        <li>No specific fertilizer recommendations generated. Soil conditions appear optimal.</li>
+        {% endfor %}
+    </ul>
+
+    <div class="footer">
+        <p>
+            <strong>Disclaimer:</strong> This report is generated by an AI model based on the inputs provided.
+            It is intended as a decision-support tool and should not replace on-ground verification by local agricultural experts.
+        </p>
+        <p>© {{ current_year }} BioGrow. All rights reserved.</p>
+    </div>
+
+</body>
+</html>

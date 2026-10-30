@@ -1,0 +1,69 @@
+:root {
+
+    --primary-green: #198754;
+    --dark-green: #14532d;
+    --mint-bg: #f2fbf5;
+}
+
+body {
+    background-color: var(--mint-bg);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Navbar */
+.avatar-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link.active{
+    background-color: #dbfce7;
+    border-radius: 8px;
+}
+
+/* Hero Section Gradient */
+.hero-section {
+    background: linear-gradient(135deg, var(--primary-green), var(--dark-green));
+    padding-bottom: 4rem;
+}
+
+/* Weather Card */
+.weather-card {
+    background-color: #2d724c;
+}
+
+/* Feature Card Styling */
+.feature-card {
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Button Hover Animation */
+.btn-hover-scale {
+    transition: all 0.15s ease-in-out;
+}
+.btn-hover-scale:hover {
+    transform: scale(1.05);
+}
+
+/* Color Utilities */
+.bg-green-subtle { background-color: #d1e7dd; }
+.bg-blue-subtle { background-color: #cfe2ff; }
+.bg-orange-subtle { background-color: #ffecb5; }
+.bg-purple-subtle { background-color: #e0cffc; }
+.bg-yellow-subtle { background-color: #fff3cd; }
+.bg-pink-subtle { background-color: #f8d7da; }
+
+/* Custom Overrides */
+.text-justify {
+    text-align: justify;
+}

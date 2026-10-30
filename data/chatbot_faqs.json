@@ -1,0 +1,602 @@
+[
+  {
+    "category": "Soil and land",
+    "question": "How can I improve poor soil before planting?",
+    "answer": "Start with a soil test to identify pH and nutrient needs. Add mature compost or well-rotted organic matter, improve drainage where needed, and avoid applying lime or fertilizer without a test or local recommendation.",
+    "keywords": ["soil", "poor", "improve", "compost", "organic matter", "prepare"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "How do I test my soil?",
+    "answer": "Collect small samples from several spots at the same depth in the field, mix them in a clean container, and submit the composite sample to a local soil-testing lab. Follow the lab's sampling and packaging instructions.",
+    "keywords": ["soil test", "testing", "sample", "lab", "nutrient"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "What soil pH is best for crops?",
+    "answer": "Many crops do well around pH 6 to 7, but the ideal range varies by crop and local soil. Test the soil and use crop-specific local recommendations before changing pH.",
+    "keywords": ["soil", "ph", "acidity", "alkaline", "best", "range"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "How can I improve heavy clay soil drainage?",
+    "answer": "Avoid working clay soil when it is wet, keep traffic off beds, add mature compost over time, and consider raised beds or surface drainage where appropriate. Do not add small amounts of sand without expert advice.",
+    "keywords": ["clay", "heavy", "drainage", "waterlogging", "soil"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "How can I conserve moisture in sandy soil?",
+    "answer": "Add mature compost or other locally recommended organic matter, mulch around plants without covering stems, and use smaller, more frequent irrigation when needed. Check moisture near the root zone.",
+    "keywords": ["sandy", "sand", "moisture", "dry", "water", "mulch"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "Why is soil crusting around seedlings?",
+    "answer": "Heavy rain, fine-textured soil, and repeated surface drying can form a crust that blocks emergence. Use a light organic mulch between rows, avoid overworking the surface, and keep the seedbed evenly moist.",
+    "keywords": ["crust", "crusting", "seedling", "emergence", "surface", "soil"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "Can I reuse soil from last season?",
+    "answer": "Often, but first remove old roots and crop debris, check drainage and salinity, and rotate crop families to reduce disease carryover. For pots, refresh with clean, suitable growing media.",
+    "keywords": ["reuse", "soil", "last season", "old", "crop rotation", "pots"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "What is crop rotation and why is it useful?",
+    "answer": "Crop rotation means growing different crop families in sequence on the same land. It can reduce buildup of crop-specific pests and diseases and balance nutrient use. Plan rotations around local crops and seasons.",
+    "keywords": ["rotation", "crop", "rotate", "disease", "pest", "soil fertility"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "How do I reduce soil erosion?",
+    "answer": "Keep soil covered with living plants, crop residue, or suitable mulch; plant across slopes where locally advised; and use contour strips or barriers suited to the field. Protect drains so they do not channel water through the field.",
+    "keywords": ["erosion", "soil loss", "rain", "slope", "runoff", "conserve"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "What is mulching and when should I use it?",
+    "answer": "Mulch is a protective layer such as clean straw or dried plant material placed on soil to reduce evaporation, weeds, and splash. Apply it after soil warms and keep it a few centimeters away from stems.",
+    "keywords": ["mulch", "mulching", "cover", "weeds", "evaporation", "straw"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How do I choose good seeds?",
+    "answer": "Choose certified or trusted seed suited to your region, season, water availability, and market. Check the crop variety, lot, germination information, seal, and expiry details, and buy from a reliable source.",
+    "keywords": ["seed", "choose", "good", "quality", "variety", "certified"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How can I check seed germination before sowing?",
+    "answer": "Place a counted sample of seeds between clean moist paper or cloth, keep it warm and moist but not waterlogged, and count sprouted seeds after the crop-appropriate period. Follow seed-lab or extension guidance for the crop.",
+    "keywords": ["germination", "test", "seed", "sprout", "viability"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How deep should I sow seeds?",
+    "answer": "Follow the crop and variety recommendation on the seed packet or local extension guide. As a general rule, smaller seeds are sown shallower than larger seeds; sowing too deep can prevent emergence.",
+    "keywords": ["sow", "sowing", "seed", "depth", "deep", "planting"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "Why are my seeds not germinating?",
+    "answer": "Common causes include old or low-viability seed, incorrect sowing depth, unsuitable temperature, dry soil, waterlogging, or seed rot. Check a small sample, soil moisture, and the recommended sowing season.",
+    "keywords": ["seed", "not germinating", "no germination", "emerge", "sprout", "failed"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "When is the right time to sow my crop?",
+    "answer": "Sowing dates depend on crop variety, local monsoon or irrigation, temperature, and region. Use the current season's guidance from your local agriculture department or extension service.",
+    "keywords": ["when", "sow", "plant", "season", "sowing time", "date"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How much spacing should I leave between plants?",
+    "answer": "Spacing depends on crop, variety, soil fertility, irrigation, and whether it is direct-sown or transplanted. Follow the recommended spacing for your seed variety and avoid overcrowding.",
+    "keywords": ["spacing", "distance", "plants", "rows", "crowded", "planting"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "Should I soak seeds before planting?",
+    "answer": "Some large or hard-coated seeds benefit from soaking, but others can be damaged or become more prone to rot. Soak only when the crop-specific seed guidance recommends it.",
+    "keywords": ["soak", "soaking", "seeds", "before planting", "pre-treatment"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How do I protect seedlings after transplanting?",
+    "answer": "Transplant healthy seedlings during cooler hours, water them in gently, and protect them temporarily from strong sun, wind, and heavy rain. Keep the root zone moist while plants establish.",
+    "keywords": ["transplant", "seedlings", "protect", "shock", "establish"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "Why are seedlings tall, thin, and weak?",
+    "answer": "Seedlings often stretch when crowded or short of light. Give them adequate light, avoid excess nitrogen, maintain suitable spacing, and provide airflow without exposing them to damaging heat or wind.",
+    "keywords": ["seedling", "tall", "thin", "weak", "leggy", "light"]
+  },
+  {
+    "category": "Seeds and planting",
+    "question": "How can I reduce transplant shock?",
+    "answer": "Harden seedlings gradually before planting, transplant into moist soil during cooler hours, minimize root disturbance, and water gently afterward. Avoid applying strong fertilizer directly to stressed roots.",
+    "keywords": ["transplant shock", "shock", "wilting", "seedlings", "roots"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "How often should I water my crops?",
+    "answer": "Water needs vary with crop stage, soil, weather, and irrigation method. Check moisture in the root zone and irrigate when needed rather than following a fixed calendar; avoid prolonged waterlogging.",
+    "keywords": ["water", "watering", "how often", "irrigation", "schedule", "frequency"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "How can I tell if a crop needs water?",
+    "answer": "Check soil moisture several centimeters below the surface near the roots. Early morning wilting, dry soil, and leaf rolling can indicate stress, but disease, heat, or root damage can look similar.",
+    "keywords": ["needs water", "dry", "wilting", "thirsty", "soil moisture", "water stress"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "What is the best time of day to irrigate?",
+    "answer": "Early morning is generally efficient because less water is lost to evaporation and foliage dries during the day. Avoid frequent late-evening overhead watering where it keeps leaves wet overnight.",
+    "keywords": ["time", "irrigate", "irrigation", "morning", "evening", "water"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "What are signs of overwatering?",
+    "answer": "Persistent wet soil, yellowing, slow growth, wilting despite wet soil, and root odor may indicate overwatering or poor drainage. Let the root zone drain and check roots before watering again.",
+    "keywords": ["overwatering", "too much water", "wet soil", "yellow", "root rot"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "What are signs of underwatering?",
+    "answer": "Dry soil around roots, drooping or curling leaves, and slow growth can indicate insufficient water. Confirm soil moisture before irrigating, since heat, disease, or root damage may cause similar symptoms.",
+    "keywords": ["underwatering", "not enough water", "dry soil", "drooping", "curling"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "How can I improve irrigation efficiency?",
+    "answer": "Repair leaks, level fields where appropriate, irrigate the root zone, use mulch when suitable, and schedule water around crop stage and soil moisture. Drip systems can help when correctly designed and maintained.",
+    "keywords": ["irrigation efficiency", "save water", "efficient", "drip", "waste", "water"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "Is drip irrigation suitable for my farm?",
+    "answer": "Drip irrigation can suit many row, orchard, and vegetable crops, but cost, water quality, field layout, filtration, and maintenance matter. Ask a local irrigation advisor about design and available subsidies.",
+    "keywords": ["drip irrigation", "drip", "suitable", "micro irrigation", "install"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "How do I prevent waterlogging?",
+    "answer": "Keep field drains clear, avoid excess irrigation, and improve surface drainage where feasible. Persistent waterlogging can damage roots; seek local advice before making major land or drainage changes.",
+    "keywords": ["waterlogging", "standing water", "drainage", "flooded", "too wet"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "Can I irrigate during hot weather?",
+    "answer": "Yes, if the crop needs water, but apply it to the root zone and avoid sudden large applications to very dry, stressed soil when possible. Use local crop-stage guidance and conserve water.",
+    "keywords": ["hot", "heat", "irrigate", "water", "summer", "temperature"]
+  },
+  {
+    "category": "Water and irrigation",
+    "question": "How can I manage irrigation during the rainy season?",
+    "answer": "Check soil moisture and rainfall before irrigating, maintain field drains, and avoid waterlogging. Resume irrigation only when the root zone needs it.",
+    "keywords": ["rainy season", "monsoon", "rain", "irrigation", "water", "drain"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Which fertilizer should I use for my crop?",
+    "answer": "Use a soil test and crop-specific nutrient recommendation to choose fertilizer. The right nutrient and amount depend on crop, soil, yield goal, and previous applications; avoid guessing or overapplying.",
+    "keywords": ["fertilizer", "which", "use", "crop", "nutrient", "NPK"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "What do N, P, and K mean on fertilizer bags?",
+    "answer": "N is nitrogen, P is phosphate expressed as P2O5, and K is potash expressed as K2O. The numbers show the percentage by weight; follow a soil-test-based recommendation.",
+    "keywords": ["npk", "n", "p", "k", "fertilizer bag", "numbers", "meaning"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Why are my crop leaves turning yellow?",
+    "answer": "Yellow leaves can result from nutrient deficiency, waterlogging, drought, pests, disease, or natural aging. Note which leaves are affected and check soil moisture and crop symptoms before treating.",
+    "keywords": ["yellow", "yellowing", "leaves", "leaf", "chlorosis", "nutrient"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "What does nitrogen deficiency look like?",
+    "answer": "Nitrogen deficiency often causes older leaves to become uniformly pale or yellow and plants to grow slowly. Similar symptoms have other causes, so confirm with a soil or plant test before adding nitrogen.",
+    "keywords": ["nitrogen", "deficiency", "pale", "yellow older leaves", "slow growth"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "How can I identify phosphorus deficiency?",
+    "answer": "Phosphorus deficiency may cause slow growth, poor root development, or dark green to purplish leaves, especially in cool or wet soil. Confirm with soil testing and local crop-specific guidance.",
+    "keywords": ["phosphorus", "phosphate", "deficiency", "purple", "slow growth"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "What are signs of potassium deficiency?",
+    "answer": "Potassium deficiency can cause yellowing or scorching along older leaf edges and weak stems, but drought, salinity, and disease can look similar. Test soil before applying potash.",
+    "keywords": ["potassium", "potash", "deficiency", "leaf edges", "scorch"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Why do young leaves look yellow between the veins?",
+    "answer": "Interveinal yellowing on young leaves can be associated with iron deficiency, high soil pH, or damaged roots. Check pH and drainage and get a soil or plant test before applying micronutrients.",
+    "keywords": ["young leaves", "yellow", "between veins", "iron", "interveinal", "micronutrient"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "When should I apply fertilizer?",
+    "answer": "Timing depends on crop, soil, and nutrient type. Follow the local crop recommendation; split mobile nutrients when advised and place fertilizer so it does not contact seed or roots directly.",
+    "keywords": ["when", "apply", "fertilizer", "timing", "split", "application"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Can too much fertilizer harm crops?",
+    "answer": "Yes. Excess fertilizer can burn roots or leaves, cause imbalanced growth, pollute water, and increase costs. Base rates on soil testing and never exceed label or local recommendations.",
+    "keywords": ["too much fertilizer", "overfertilize", "burn", "excess", "harm", "overdose"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Is compost enough to feed my crops?",
+    "answer": "Compost improves soil organic matter, but its nutrient content varies and may not meet every crop's needs. Combine it with soil testing and locally recommended nutrient management.",
+    "keywords": ["compost", "organic", "enough", "fertilizer", "nutrients", "manure"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "How do I apply farmyard manure safely?",
+    "answer": "Use well-decomposed manure from a reliable source and incorporate it according to local guidance. Avoid fresh manure on edible crops close to harvest and protect wells and waterways from runoff.",
+    "keywords": ["farmyard manure", "cow dung", "manure", "compost", "apply", "safe"]
+  },
+  {
+    "category": "Nutrients and fertilizer",
+    "question": "Should I use foliar fertilizer spray?",
+    "answer": "Foliar feeding can help with some diagnosed deficiencies, but it does not replace healthy soil nutrition. Use only a crop-approved product at label rates and test a small area first.",
+    "keywords": ["foliar", "spray", "fertilizer", "leaf feeding", "deficiency"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How do I identify a pest on my crop?",
+    "answer": "Inspect both sides of leaves, stems, flowers, and nearby plants. Look for insects, eggs, webbing, feeding holes, and fresh damage. Take a clear photo and ask a local extension service to confirm identification.",
+    "keywords": ["identify", "pest", "insect", "bug", "damage", "photo"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "What should I do when I first notice crop pests?",
+    "answer": "Identify the pest and assess how much of the field is affected. Remove heavily infested plant parts when practical, conserve beneficial insects, and consult local integrated pest-management guidance before treatment.",
+    "keywords": ["pest", "first", "notice", "infestation", "control", "manage"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How can I control aphids?",
+    "answer": "Check the crop and identify aphids before acting. Small populations may be reduced by washing plants or removing affected tips; conserve ladybirds and other predators. Use only locally approved products when needed.",
+    "keywords": ["aphid", "aphids", "small insects", "sap", "curling", "pest"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How do I manage whiteflies?",
+    "answer": "Inspect leaf undersides and monitor population trends with suitable traps. Remove crop residues, control weeds that host pests, and protect beneficial insects. Follow local integrated pest-management advice.",
+    "keywords": ["whitefly", "whiteflies", "flies", "leaf undersides", "pest"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How can I reduce caterpillar damage?",
+    "answer": "Inspect plants regularly for eggs, caterpillars, and fresh feeding. Hand-pick small infestations where feasible, protect natural enemies, and get the species identified before choosing a locally approved control.",
+    "keywords": ["caterpillar", "worm", "chewed leaves", "holes", "pest"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "What causes holes in crop leaves?",
+    "answer": "Chewing insects, caterpillars, beetles, snails, or hail can make holes. Inspect plants at night and during the day for pests and droppings, then confirm the cause before treating.",
+    "keywords": ["holes", "leaf holes", "chewed", "leaves", "damage", "insect"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How can I prevent termite damage in fields?",
+    "answer": "Keep fields free of unmanaged dry residues, maintain suitable soil moisture, and use crop rotation and field sanitation where appropriate. Confirm termites are causing the damage and consult local extension guidance.",
+    "keywords": ["termite", "termites", "root damage", "stem", "soil pest"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "Do sticky traps control crop pests?",
+    "answer": "Sticky traps are useful for monitoring some flying pests, but they may not control an entire infestation. Use the right trap color and placement for the target pest and combine monitoring with other IPM methods.",
+    "keywords": ["sticky trap", "traps", "monitoring", "flies", "pest control"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "Are neem products safe to use on crops?",
+    "answer": "Neem products vary in strength and registration. Use only products approved for the crop and pest, follow label directions and pre-harvest intervals, and avoid spraying pollinators or during extreme heat.",
+    "keywords": ["neem", "neem oil", "safe", "spray", "pest", "organic"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How do I use pesticides safely?",
+    "answer": "Use only a locally registered product for the identified crop and pest. Read and follow the label, wear the specified protective equipment, observe re-entry and harvest intervals, and keep chemicals away from children, animals, and water.",
+    "keywords": ["pesticide", "safely", "chemical", "spraying", "PPE", "label"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "Can I mix two pesticides or fertilizers in one spray?",
+    "answer": "Do not mix products unless both labels and local agricultural guidance confirm compatibility. Incompatible mixtures can damage crops or create safety risks; when permitted, test a small area first.",
+    "keywords": ["mix", "tank mix", "pesticide", "fertilizer", "spray", "compatibility"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "How do I protect bees when spraying?",
+    "answer": "Avoid spraying flowering crops when bees are active, follow the product label, and notify nearby beekeepers when required. Choose less harmful, locally approved options and conserve pollinator habitat.",
+    "keywords": ["bees", "beesafe", "pollinator", "spray", "flowering", "pesticide"]
+  },
+  {
+    "category": "Pests and crop protection",
+    "question": "What is integrated pest management?",
+    "answer": "Integrated pest management combines monitoring, correct pest identification, cultural practices, biological controls, and carefully selected pesticides only when needed. It aims to protect crops, people, beneficial organisms, and the environment.",
+    "keywords": ["integrated pest management", "ipm", "pest management", "control", "meaning"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "How can I tell if a crop has a fungal disease?",
+    "answer": "Fungal diseases may cause spots, powdery growth, rotting, or lesions, often spreading in wet conditions. Photograph the whole plant and affected leaves, note recent weather, and confirm the disease before treatment.",
+    "keywords": ["fungal", "fungus", "disease", "spots", "mold", "rot"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "Why are leaves curling?",
+    "answer": "Leaf curl can be caused by sap-feeding pests, viruses, heat, water stress, herbicide drift, or nutrient problems. Check the leaf undersides and nearby plants, and get a diagnosis before applying any treatment.",
+    "keywords": ["curling", "curled", "leaf curl", "leaves", "deformed", "pest"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "What causes brown spots on leaves?",
+    "answer": "Brown spots may come from fungal or bacterial disease, sunscald, nutrient stress, or chemical injury. Avoid wetting foliage unnecessarily, remove badly affected material if advised, and seek diagnosis with clear photos.",
+    "keywords": ["brown spots", "spots", "leaf spot", "leaves", "brown", "disease"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "Why are my plants wilting?",
+    "answer": "Wilting can result from dry soil, waterlogged roots, heat, root damage, or disease. Check soil moisture and stems; avoid adding water until you know whether the soil is dry or saturated.",
+    "keywords": ["wilting", "wilt", "drooping", "plant", "roots", "dry"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "What should I do about powdery mildew?",
+    "answer": "Improve spacing and airflow, avoid excess nitrogen, and remove heavily affected material when practical. Confirm the crop and disease, then use only locally approved treatments according to the label.",
+    "keywords": ["powdery mildew", "white powder", "mildew", "fungal", "leaf disease"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "How can I reduce fungal diseases after rain?",
+    "answer": "Improve drainage and airflow, avoid unnecessary overhead irrigation, and remove diseased crop debris where appropriate. Scout after wet weather and get the disease identified before choosing a treatment.",
+    "keywords": ["rain", "fungal", "fungus", "disease", "wet weather", "prevent"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "Why are the roots of my plant rotting?",
+    "answer": "Root rot is often linked to waterlogged soil and soilborne pathogens. Improve drainage, avoid overwatering, use healthy planting material, and remove severely affected plants if local advice recommends it.",
+    "keywords": ["root rot", "rotting roots", "roots", "waterlogged", "disease"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "How do I prevent disease spreading between plants?",
+    "answer": "Avoid handling wet plants, clean tools between affected areas, remove diseased material safely, control volunteer plants, and use healthy seed. Follow local guidance on disposal and crop rotation.",
+    "keywords": ["spread", "spreading", "disease", "infected", "tools", "prevent"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "Should I remove leaves with disease spots?",
+    "answer": "Remove severely affected leaves only when it will not excessively weaken the plant. Use clean tools, avoid working when foliage is wet, and dispose of infected material according to local guidance.",
+    "keywords": ["remove", "diseased", "spots", "leaves", "prune", "infected"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "Can I diagnose a crop disease from a photo?",
+    "answer": "A clear photo can help narrow possibilities but may not confirm a diagnosis. Photograph the whole plant and close-up symptoms in good light, include the crop and location, and consult an extension expert for serious outbreaks.",
+    "keywords": ["photo", "picture", "diagnose", "disease", "image", "identify"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "What is the difference between disease and nutrient deficiency?",
+    "answer": "Nutrient problems often show patterns linked to leaf age or soil conditions, while disease may form distinct lesions or spread between plants. Symptoms overlap, so use a soil test and expert diagnosis where possible.",
+    "keywords": ["disease", "nutrient deficiency", "difference", "identify", "symptoms"]
+  },
+  {
+    "category": "Disease and leaf symptoms",
+    "question": "How should I clean farm tools after pruning diseased plants?",
+    "answer": "Remove soil and plant debris first, then disinfect tools with a suitable product according to its label. Allow tools to dry and avoid carrying contaminated material between fields.",
+    "keywords": ["clean", "tools", "pruning", "disinfect", "disease", "sanitize"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "Why is my crop growing slowly?",
+    "answer": "Slow growth can be caused by poor seed, unsuitable temperature, compaction, water stress, weeds, pests, disease, or nutrient imbalance. Compare the crop's conditions with local recommendations and check roots and soil.",
+    "keywords": ["slow", "growth", "growing slowly", "stunted", "crop", "not growing"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "Why are flowers dropping before fruit forms?",
+    "answer": "Flower drop can be triggered by heat, irregular water, poor pollination, nutrient imbalance, or pests. Keep moisture steady, avoid excess nitrogen, and check crop-specific pollination needs.",
+    "keywords": ["flower drop", "flowers falling", "blossom", "fruit set", "pollination"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "Why is my crop not producing fruit?",
+    "answer": "Possible causes include insufficient pollination, excessive shade or nitrogen, unsuitable temperatures, irregular irrigation, or a plant that is not mature. Check the crop's variety and flowering requirements.",
+    "keywords": ["no fruit", "not fruiting", "fruit", "flower", "produce", "pollination"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "How can I control weeds without harming my crop?",
+    "answer": "Use timely hand weeding, hoeing, mulching, and crop spacing appropriate to the crop. If using herbicides, confirm the weed and crop, and follow the locally registered product label exactly.",
+    "keywords": ["weed", "weeds", "control", "remove", "herbicide", "crop"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "When should I weed my field?",
+    "answer": "Weed early, before weeds compete strongly or set seed, while avoiding damage to crop roots. The critical timing varies by crop, so follow local crop-specific guidance.",
+    "keywords": ["when", "weed", "weeding", "field", "timing", "weeds"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "How can I reduce heat stress in crops?",
+    "answer": "Maintain root-zone moisture without waterlogging, use suitable mulch, and avoid heavy pruning or fertilizer during heat stress. Follow local recommendations for shade or heat protection for the crop.",
+    "keywords": ["heat stress", "heat", "hot", "sun", "temperature", "protect"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "How can I protect crops from frost?",
+    "answer": "Check local frost forecasts, irrigate only if local crop guidance recommends it, and use suitable row covers or wind protection where practical. Remove covers when temperatures rise to prevent overheating.",
+    "keywords": ["frost", "cold", "freeze", "protect", "winter", "temperature"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "What can I do after heavy rain floods a field?",
+    "answer": "Prioritize safe access, open drains where safe, and avoid walking or driving on saturated soil. Once water recedes, inspect plants and roots and ask local extension staff about crop recovery.",
+    "keywords": ["flood", "flooding", "heavy rain", "water", "field", "recovery"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "How do I choose crops for my region?",
+    "answer": "Choose crops and varieties suited to local climate, soil, water availability, growing season, and market demand. Consult regional agriculture advisories and compare input costs and risk.",
+    "keywords": ["choose crop", "which crop", "region", "climate", "suitable", "market"]
+  },
+  {
+    "category": "Crop growth and field management",
+    "question": "How do I keep records for my farm?",
+    "answer": "Record crop and variety, planting date, field location, irrigation, fertilizer and product applications, pest observations, labor, and harvest. Clear records help compare seasons and improve decisions.",
+    "keywords": ["farm records", "record", "log", "track", "expenses", "farm management"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How do I know when a crop is ready to harvest?",
+    "answer": "Use crop- and variety-specific maturity signs such as color, firmness, seed moisture, or days after planting. Harvest timing also depends on intended use, storage, and market requirements.",
+    "keywords": ["harvest", "ready", "mature", "maturity", "when", "crop"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How can I reduce losses after harvest?",
+    "answer": "Harvest at the right maturity, handle produce gently, keep it clean and shaded, and use suitable drying, sorting, packaging, and storage. Follow crop-specific moisture and temperature guidance.",
+    "keywords": ["post harvest", "losses", "after harvest", "storage", "handling", "spoilage"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How should I store grain safely?",
+    "answer": "Clean and dry grain to the recommended moisture level for that crop, use clean insect-resistant storage, and inspect regularly for moisture, pests, and leaks. Follow local grain-storage guidance.",
+    "keywords": ["grain", "store", "storage", "drying", "moisture", "warehouse"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How can I prevent mold during crop storage?",
+    "answer": "Dry produce adequately before storage, prevent leaks and condensation, use clean ventilated storage, and inspect regularly. Discard moldy food or feed safely; some molds can produce toxins.",
+    "keywords": ["mold", "mould", "storage", "fungus", "grain", "prevent"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How can I store seeds for next season?",
+    "answer": "Store mature, clean, fully dry seed in a labeled, sealed container in a cool, dry, dark place. Keep it protected from insects and rodents, and test germination before sowing.",
+    "keywords": ["store seeds", "seed storage", "next season", "save seed", "keep"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "Why is my harvested produce rotting quickly?",
+    "answer": "Bruising, field heat, excess moisture, disease, and poor airflow can speed decay. Handle gently, remove damaged produce, keep suitable crops cool and dry, and use clean storage containers.",
+    "keywords": ["produce", "rotting", "rot", "spoil", "harvest", "decay"]
+  },
+  {
+    "category": "Harvest and storage",
+    "question": "How do I reduce bruising during harvest?",
+    "answer": "Harvest in suitable weather, use clean sharp tools, avoid dropping or overfilling containers, and shade produce promptly. Train workers on crop-specific handling.",
+    "keywords": ["bruising", "bruise", "harvest", "damage", "handling", "fruit"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How do I estimate how much seed to buy?",
+    "answer": "Use the recommended seed rate for the crop and sowing method, then calculate from the area to plant. Adjust only for the seed's germination and local recommendations.",
+    "keywords": ["how much seed", "seed rate", "buy", "quantity", "area", "planting"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I reduce the cost of crop inputs?",
+    "answer": "Use soil testing, compare trusted suppliers, prevent avoidable losses through monitoring and timely operations, and prioritize inputs with proven local value. Do not reduce critical inputs without crop-specific advice.",
+    "keywords": ["cost", "reduce", "inputs", "expenses", "save money", "fertilizer"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I make my farm more climate resilient?",
+    "answer": "Consider locally adapted varieties, crop diversification, soil cover, efficient water use, drainage, and weather-based planning. Choose measures suited to your region and seek local climate advisories.",
+    "keywords": ["climate", "resilient", "climate change", "adapt", "drought", "weather"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "Where can I get reliable crop advice?",
+    "answer": "Contact your local agriculture extension office, university or research center, soil-testing lab, or government crop advisory service. Share the crop, variety, location, planting date, and clear symptom photos.",
+    "keywords": ["reliable", "advice", "extension", "help", "expert", "agriculture office"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "What information should I share for crop diagnosis?",
+    "answer": "Share crop and variety, location, planting date, when symptoms began, affected plant parts, recent weather and irrigation, and clear whole-plant and close-up photos. Mention any recent treatments.",
+    "keywords": ["diagnosis", "information", "photo", "crop", "symptoms", "help"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I keep farm workers safe during spraying?",
+    "answer": "Use only approved products and follow label training, protective equipment, mixing, re-entry, and disposal directions. Keep bystanders away and never spray against wind or near water sources.",
+    "keywords": ["worker safety", "spraying", "workers", "protective equipment", "PPE", "chemical"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How should I dispose of pesticide containers?",
+    "answer": "Follow the product label and local hazardous-waste rules. Never reuse containers for food or water, and do not dump residues into drains, fields, or water bodies.",
+    "keywords": ["dispose", "pesticide container", "empty container", "chemical waste", "safety"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I protect farm water from contamination?",
+    "answer": "Store fertilizers and pesticides securely away from wells and waterways, prevent runoff, maintain buffer areas where required, and follow label instructions for mixing and disposal.",
+    "keywords": ["water contamination", "protect water", "well", "runoff", "chemical", "waterway"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "What should I do if a pesticide spills?",
+    "answer": "Keep people and animals away, avoid touching the spill, and follow the product label's spill instructions. Use the specified protective equipment and contact local emergency or hazardous-material authorities if needed.",
+    "keywords": ["spill", "pesticide", "accident", "leak", "exposure", "emergency"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "Can I use the same pesticide every season?",
+    "answer": "Repeated use of the same mode of action can encourage resistance. Rotate only among locally approved modes of action as advised by extension experts, and combine with non-chemical IPM practices.",
+    "keywords": ["same pesticide", "resistance", "rotate", "mode of action", "repeat", "season"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I manage drought on my farm?",
+    "answer": "Prioritize water for critical crop stages, control leaks and weeds, maintain soil cover, and follow local drought advisories. Ask extension staff about crop-specific contingency plans.",
+    "keywords": ["drought", "dry spell", "water shortage", "manage", "crop", "stress"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How do I use weather forecasts for farm decisions?",
+    "answer": "Check reliable local forecasts before irrigation, spraying, planting, or harvesting. Consider wind, rain, temperature, and forecast confidence, and follow product-label weather restrictions.",
+    "keywords": ["weather forecast", "forecast", "rain", "spray", "irrigation", "plan"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "What is a safe way to start organic farming?",
+    "answer": "Start with a small area, learn your local organic certification rules, build soil health, plan rotations, and monitor pests. Do not assume a product is permitted just because it is labeled natural.",
+    "keywords": ["organic farming", "organic", "start", "certification", "natural"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "Can I use an AI answer as a final crop treatment recommendation?",
+    "answer": "Use AI advice as a starting point, not a confirmed diagnosis. Verify the crop, pest or disease, local product registration, and label with an agriculture extension expert before applying treatments.",
+    "keywords": ["AI", "chatbot", "final", "treatment", "recommendation", "verify"]
+  },
+  {
+    "category": "Soil and land",
+    "question": "How can I recognize and manage salty soil?",
+    "answer": "Salinity can cause poor germination, stunted growth, and leaf-edge burn, but these signs have other causes too. Test soil and irrigation water, improve drainage, and get local advice before leaching or applying amendments.",
+    "keywords": ["salty soil", "salinity", "salt", "white crust", "leaf burn", "soil test"]
+  },
+  {
+    "category": "Farm planning and safety",
+    "question": "How can I find crop insurance or government farm support?",
+    "answer": "Eligibility, deadlines, and coverage vary by region and season. Check your agriculture department or authorized local service center and keep land, crop, identity, and bank documents ready; avoid unofficial agents requesting sensitive information.",
+    "keywords": ["insurance", "crop insurance", "government", "scheme", "support", "subsidy", "farmer benefit"]
+  }
+]

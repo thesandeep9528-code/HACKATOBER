@@ -1,0 +1,59 @@
+/* Navbar */
+.avatar-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link.active{
+    background-color: #dbfce7;
+    border-radius: 8px;
+}
+
+/* Accordion Styling */
+.custom-accordion .accordion-button {
+    background-color: #ffffff;
+    padding: 1.25rem;
+    box-shadow: none; /* Prevents bottom border glitch */
+}
+
+.custom-accordion .accordion-button:not(.collapsed) {
+    color: #198754; /* Success green text */
+}
+
+/* Radio Button Cards (Moisture) */
+.btn-check:checked + .btn-outline-danger {
+    background-color: #dc3545;
+    color: white;
+    box-shadow: 0 4px 6px rgba(220, 53, 69, 0.3);
+}
+
+.btn-check:checked + .btn-outline-primary {
+    background-color: #0d6efd;
+    color: white;
+    box-shadow: 0 4px 6px rgba(13, 110, 253, 0.3);
+}
+
+.btn-check:checked + .btn-outline-info {
+    background-color: #0dcaf0;
+    color: white;
+    border-color: #0dcaf0;
+    box-shadow: 0 4px 6px rgba(13, 202, 240, 0.3);
+}
+
+/* Input Group Icons */
+.input-group-text {
+    color: #6c757d;
+}
+
+/* Alert Styling */
+.alert-custom {
+    border-left: 5px solid;
+}
+
+.instructions-btn:hover {
+    text-decoration: underline;
+}

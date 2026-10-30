@@ -1,0 +1,116 @@
+body {
+    background: #f4f6f9;
+}
+
+/* Main wrapper */
+.profile-wrapper {
+    max-width: 1020px;
+}
+
+/* Header */
+.profile-header {
+    background: linear-gradient(135deg, #8b2eff, #b44bff);
+    border-radius: 14px;
+    padding: 18px;
+}
+
+/* Avatar */
+.avatar {
+    width: 56px;
+    height: 56px;
+    background: #fff;
+    border-radius: 50%;
+}
+
+/* Progress */
+.progress-sm {
+    height: 6px;
+}
+
+/* Stats */
+.stat-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 14px;
+    font-size: 15px;
+    text-align: center;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+}
+
+/* Sections */
+.section-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 15px;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+}
+
+.avatar-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-title {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+/* Achievements */
+.achievement {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.achievement.cream {
+    background: #fff7cc;
+}
+
+.achievement.blue {
+    background: #e8f1ff;
+}
+
+.achievement.locked {
+    background: #f1f1f1;
+    color: #999;
+}
+
+/* Rewards */
+.reward {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+}
+
+.reward.green {
+    border-color: #b6e7c9;
+}
+
+.reward.purple {
+    border-color: #cdb7ff;
+}
+
+.reward.yellow {
+    border-color: #ffe29a;
+}
+
+.reward.locked {
+    opacity: 0.5;
+}
+
+@media (max-width: 576px) {
+    .profile-card {
+        max-width: 420px;
+    }
+}
